@@ -23,3 +23,4 @@ import com.google.android.material.textfield.TextInputEditText;
     
 ## Galeria
 ![record2](https://user-images.githubusercontent.com/42383412/110965808-8fd28f80-8322-11eb-9a47-78c0a66c07b1.gif)
+![4](https://user-images.githubusercontent.com/42383412/110965989-cd371d00-8322-11eb-8b99-b6cd84846f35.JPG)
