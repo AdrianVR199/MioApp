@@ -7,9 +7,7 @@ Desarrollar una aplicación movil que le permita a los usuarios calcular el valo
 
 ## Acerca del proyecto
 Desarrollado en: 
-  - JavaScript
-  - Arduino
-  - Cayenne
+  - Java
 
 Dependencias:
 
