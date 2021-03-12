@@ -1,3 +1,4 @@
+
 # MioApp
 
 MioApp es un prototipo de aplicativo movil para los ciudadanos de Cali, la cual les birnda a los usuarios una forma facil y rapida de calcular el precio de su pasaje de acuerdo a un listado de descuentos dependiendo ciertas caracteristicas de la persona, como lo son: la edad, si la persona es estudiante o si es miembro de una familia numerosa. Con solo estos datos la aplicación le devolvera a la persona el valor exacto de su pasaje.
@@ -21,3 +22,4 @@ Dependencias:
 import com.google.android.material.textfield.TextInputEditText;
     
 ## Galeria
+![record2](https://user-images.githubusercontent.com/42383412/110965808-8fd28f80-8322-11eb-9a47-78c0a66c07b1.gif)
