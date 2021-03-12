@@ -11,6 +11,15 @@ Desarrollado en:
 
 Dependencias:
 
-    p5.serialport.js v0.0.1 2015-07-23
+    import androidx.appcompat.app.AppCompatActivity;
+
+
+    import android.app.AlertDialog;
+    import android.os.Bundle;
+    import android.view.View;
+    import android.widget.RadioButton;
+
+
+import com.google.android.material.textfield.TextInputEditText;
     
 ## Galeria
